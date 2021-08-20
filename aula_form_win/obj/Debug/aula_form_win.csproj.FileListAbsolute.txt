@@ -1,0 +1,10 @@
+C:\Users\3223612\source\repos\aula_form_win\aula_form_win\bin\Debug\aula_form_win.exe.config
+C:\Users\3223612\source\repos\aula_form_win\aula_form_win\bin\Debug\aula_form_win.exe
+C:\Users\3223612\source\repos\aula_form_win\aula_form_win\bin\Debug\aula_form_win.pdb
+C:\Users\3223612\source\repos\aula_form_win\aula_form_win\obj\Debug\aula_form_win.csproj.AssemblyReference.cache
+C:\Users\3223612\source\repos\aula_form_win\aula_form_win\obj\Debug\aula_form_win.From1.resources
+C:\Users\3223612\source\repos\aula_form_win\aula_form_win\obj\Debug\aula_form_win.Properties.Resources.resources
+C:\Users\3223612\source\repos\aula_form_win\aula_form_win\obj\Debug\aula_form_win.csproj.GenerateResource.cache
+C:\Users\3223612\source\repos\aula_form_win\aula_form_win\obj\Debug\aula_form_win.csproj.CoreCompileInputs.cache
+C:\Users\3223612\source\repos\aula_form_win\aula_form_win\obj\Debug\aula_form_win.exe
+C:\Users\3223612\source\repos\aula_form_win\aula_form_win\obj\Debug\aula_form_win.pdb
